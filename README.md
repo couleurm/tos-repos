@@ -1,3 +1,8 @@
+> Abandonned
+>
+> Deprecated in favor of [/CTT](https://github.com/couleur-tweak-tips/CTT)
+
+
 # <img src="https://files.catbox.moe/qge68c.png" alt="image.png" width="30" height="30"> TOS repos
 Delicious list of useful stuff I don't talk about on [CTT](http://dsc.gg/CTT 'A discord server about video, optimizations and automation'). Anything in this repo should be used at your own risk/discretion, I just made this small repo to share what I don't care to verify is 100% safe to share on Discord.
 
